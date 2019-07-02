@@ -1,14 +1,1 @@
 Hola Mundo :)
-
-
-Este es una prueba de cambios para git
-de modo que sean notorios los cambios efectuados.
-
-Los cambios en el archivo deben ser visibles en git
-una vez que este detecta los cambios, y para confirmarlos debemos hacer
-
-1-git add.
-	Este comando nos permite llevar del working directory al staging area.
-2-git commit.
-	Este comando lleva los cambios del staging area al repositorio.
-
