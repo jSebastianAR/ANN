@@ -1,0 +1,3 @@
+Archivo de texto para evitar
+que la carpeta este vacía
+
