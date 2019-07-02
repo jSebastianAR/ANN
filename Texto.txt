@@ -8,4 +8,7 @@ Los cambios en el archivo deben ser visibles en git
 una vez que este detecta los cambios, y para confirmarlos debemos hacer
 
 1-git add.
+	Este comando nos permite llevar del working directory al staging area.
 2-git commit.
+	Este comando lleva los cambios del staging area al repositorio.
+
